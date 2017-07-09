@@ -19,10 +19,10 @@ import { Hero } from "app/hero";
 })
 export class AppComponent {
   heroes = [
-    new Hero(1, 'windstorm'),
-    new Hero(13, 'Bambasto'),
-    new Hero(15, 'Mangeta'),
-    new Hero(20, 'Tornado')
+    new Hero(1, 'windstorm', 'power'),
+    new Hero(13, 'Bambasto', 'power'),
+    new Hero(15, 'Mangeta', 'power'),
+    new Hero(20, 'Tornado', 'power')
   ]
   myhero = this.heroes[0];
   title = 'app';

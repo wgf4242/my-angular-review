@@ -1,3 +1,4 @@
+<input>标签还添加了name属性 (attribute)
 # MyAngularReview
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
